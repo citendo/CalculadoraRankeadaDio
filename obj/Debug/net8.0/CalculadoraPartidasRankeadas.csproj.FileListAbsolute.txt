@@ -1,0 +1,14 @@
+C:\Users\Citendo\Desktop\CalculadoraRankeada\CalculadoraPartidasRankeadas\bin\Debug\net8.0\CalculadoraPartidasRankeadas.exe
+C:\Users\Citendo\Desktop\CalculadoraRankeada\CalculadoraPartidasRankeadas\bin\Debug\net8.0\CalculadoraPartidasRankeadas.deps.json
+C:\Users\Citendo\Desktop\CalculadoraRankeada\CalculadoraPartidasRankeadas\bin\Debug\net8.0\CalculadoraPartidasRankeadas.runtimeconfig.json
+C:\Users\Citendo\Desktop\CalculadoraRankeada\CalculadoraPartidasRankeadas\bin\Debug\net8.0\CalculadoraPartidasRankeadas.dll
+C:\Users\Citendo\Desktop\CalculadoraRankeada\CalculadoraPartidasRankeadas\bin\Debug\net8.0\CalculadoraPartidasRankeadas.pdb
+C:\Users\Citendo\Desktop\CalculadoraRankeada\CalculadoraPartidasRankeadas\obj\Debug\net8.0\CalculadoraPartidasRankeadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Citendo\Desktop\CalculadoraRankeada\CalculadoraPartidasRankeadas\obj\Debug\net8.0\CalculadoraPartidasRankeadas.AssemblyInfoInputs.cache
+C:\Users\Citendo\Desktop\CalculadoraRankeada\CalculadoraPartidasRankeadas\obj\Debug\net8.0\CalculadoraPartidasRankeadas.AssemblyInfo.cs
+C:\Users\Citendo\Desktop\CalculadoraRankeada\CalculadoraPartidasRankeadas\obj\Debug\net8.0\CalculadoraPartidasRankeadas.csproj.CoreCompileInputs.cache
+C:\Users\Citendo\Desktop\CalculadoraRankeada\CalculadoraPartidasRankeadas\obj\Debug\net8.0\CalculadoraPartidasRankeadas.dll
+C:\Users\Citendo\Desktop\CalculadoraRankeada\CalculadoraPartidasRankeadas\obj\Debug\net8.0\refint\CalculadoraPartidasRankeadas.dll
+C:\Users\Citendo\Desktop\CalculadoraRankeada\CalculadoraPartidasRankeadas\obj\Debug\net8.0\CalculadoraPartidasRankeadas.pdb
+C:\Users\Citendo\Desktop\CalculadoraRankeada\CalculadoraPartidasRankeadas\obj\Debug\net8.0\CalculadoraPartidasRankeadas.genruntimeconfig.cache
+C:\Users\Citendo\Desktop\CalculadoraRankeada\CalculadoraPartidasRankeadas\obj\Debug\net8.0\ref\CalculadoraPartidasRankeadas.dll
